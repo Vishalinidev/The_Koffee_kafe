@@ -6,7 +6,7 @@
 
 
 ## 🌐 Live Demo  
-Explore the website here: [The Koffee Kafe Shop](https://your-username.github.io/koffee-kafe-shop/)  
+Explore the website here: [The Koffee Kafe Shop](https://Vishalinidev.github.io/koffee-kafe-shop/)  
 
 ## 🔥 Features  
 - Responsive design for all devices.  
